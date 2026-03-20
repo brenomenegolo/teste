@@ -93,3 +93,9 @@ if media > 7 and prova_portugues <= 5 and prova_de_matematica <=5 and prova_gera
     print("aprovado")
 else:
     print("reprovado")
+    
+
+
+
+
+    ##3 qualquer coisa
